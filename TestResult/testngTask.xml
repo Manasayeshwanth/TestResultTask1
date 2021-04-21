@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.resultActivity.TC_9"/>
+      <class name="com.resultActivity.TC_10"/>
+      <class name="com.resultActivity.TC_7"/>
+      <class name="com.resultActivity.TC_8"/>
+      <class name="com.resultActivity.TC_5"/>
+      <class name="com.resultActivity.TC_6"/>
+      <class name="com.resultActivity.TC_3"/>
+      <class name="com.resultActivity.TC_4"/>
+      <class name="com.resultActivity.TC_1"/>
+      <class name="com.resultActivity.TC_2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
